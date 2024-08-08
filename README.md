@@ -21,7 +21,7 @@ Video Generation Techniques, Medical Video Generation Techniques and Medical Vid
 7. [Total Knee Replacement Surgery](https://www.youtube.com/watch?v=ntwAUA4HuwY)
 8. [Tracheostomy](https://www.youtube.com/watch?v=UZhtM4qPdcA)
 9. [Functional Endoscopic Sinus Surgery (FESS) for sinusitis](https://www.youtube.com/watch?v=48LD2S6T0uI)
-10. [Stryker Video library](8.https://cmf.stryker.com/medical-education/surgical-video-library)
+10. [Stryker Video library](https://cmf.stryker.com/medical-education/surgical-video-library)
 11. [MED-EL Surgical Video library](https://surgical-videos.medel.com/login/)
 12. [ACS Online Video Library](https://cine-med.com/acsonline/menu.php)
 13. [House Institute Foundation surgical video library](https://www.youtube.com/c/HouseInstituteProfessionalEducation/playlists)
