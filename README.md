@@ -10,7 +10,7 @@ Video Generation Techniques, Medical Video Generation Techniques and Medical Vid
 4. [Research Group CAMMA](http://camma.u-strasbg.fr/datasets)
 ## Medical Imaging Video
 1. [Econet](https://echonet.github.io/dynamic/): Ultrasound video clips for heart beat
-2. [Breast cancer ultrasound](7.https://drive.google.com/file/d/1LVXK34OJhC2LkqqyMmVFnXsXQavvZdeF/view)
+2. [Breast cancer ultrasound](https://drive.google.com/file/d/1LVXK34OJhC2LkqqyMmVFnXsXQavvZdeF/view)
 ## Online Medical Video Library
 1. [Omnimedical](http://www.omnimedicalsearch.com/image_databases.html): A large scale Medical video&image database&library
 2. [Omniguide Surgical video library](https://www.omni-guide.com/support/video-library-specialty/)
