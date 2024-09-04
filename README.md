@@ -8,6 +8,7 @@ Video Generation Techniques, Medical Video Generation Techniques and Medical Vid
 2. [Short video clips showing typical surgical actions in gynecologic laparoscopy](https://ftp.itec.aau.at/datasets/SurgicalActions160/index.html)
 3. [EnDoVis2015-EnDoVis2022](http://opencas.dkfz.de/endovis/datasetspublications/) Medical Video Challenges
 4. [Research Group CAMMA](http://camma.u-strasbg.fr/datasets)
+5. [Nerthus](https://dl.acm.org/do/10.1145/3193165/full/):A Bowel Preparation Quality Video Dataset *
 ## Medical Imaging Video
 1. [Econet](https://echonet.github.io/dynamic/): Ultrasound video clips for heart beat
 2. [Breast cancer ultrasound](https://drive.google.com/file/d/1LVXK34OJhC2LkqqyMmVFnXsXQavvZdeF/view)
